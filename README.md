@@ -1,4 +1,5 @@
-swakfm
+Swak FM Repository
 ======
 
-Swak FM
+Swak FM goes open source. YEHEY!
+
